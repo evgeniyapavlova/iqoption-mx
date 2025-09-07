@@ -4,136 +4,75 @@
 
 <section style="padding-top: 60px;">
 	<p>
-		Ang <strong>IQ Option</strong> ay lehitimo, secure, at kontroladong platform sa pag-trade online
-		na may milyon-milyong user sa buong mundo. Isa ito sa pinakamagagandang broker sa Pilipinas
-		dahil sa madali itong gamitin at may maraming mapagpipiliang asset at paraan sa pagbabayad para
-		matugunan ang mga pangangailangan ng mga lokal na consumer. Puwede kang mag-trade ng Forex, mga
-		commodity, mga equity, mga binary option, o mga cryptocurrency sa <strong>IQ Option</strong>.
-		Puwede mong gawin ang lahat ng iyong pananaliksik sa market, mag-trade, at pamahalaan ang iyong
-		panganib mula sa iyong desktop, mobile app, o web browser.
+		<strong>IQ Option</strong> es una plataforma de trading en línea legítima, segura y regulada,
+		usada por millones de traders en todos los países del mundo. También ofrece la plataforma de
+		trading con opciones más popular disponible en México, con métodos de pago locales, una amplia
+		variedad de activos y una plataforma fácil de usar. <strong>IQ Option</strong> es la solución perfecta
+		tanto para principiantes como para traders avanzados que buscan hacer trading con divisas, materias
+		primas, acciones, opciones binarias o criptomonedas.
 	</p>
 
-	<Picture basePath="image9" />
+	<Picture basePath="image7" />
 
-	<h2>Profile ng Kompanya</h2>
-
-	<p>Isang maikling overview tungkol sa mga pangunahing detalye ng IQ Option:</p>
-
-	<div class="table-wrap">
-		<table>
-			<tr>
-				<td>Feature</td>
-				<td>Mga Detalye</td>
-			</tr>
-
-			<tr>
-				<td>Opisyal na Website</td>
-				<td>iqoption.com</td>
-			</tr>
-			<tr>
-				<td>Headquarters</td>
-				<td>Limassol, Cyprus</td>
-			</tr>
-			<tr>
-				<td>Itinatag noong</td>
-				<td>2013</td>
-			</tr>
-
-			<tr>
-				<td> Lisensya </td>
-				<td>Kontrolado ng CySEC (No. 247/14), para sa mga kliyente sa EU</td>
-			</tr>
-
-			<tr>
-				<td>Mga Iniaalok na Produkto</td>
-				<td>Forex, mga CFD sa Stocks, mga Crypto, mga Commodity, mga ETF, mga Option</td>
-			</tr>
-			<tr>
-				<td>Sinusuportahang Currency</td>
-				<td>USD, EUR, THB, at iba pa</td>
-			</tr>
-			<tr>
-				<td>Mga Paraan sa Pagdeposito</td>
-				<td>Mga bank card, E-wallet, Internet banking</td>
-			</tr>
-			<tr>
-				<td>Minimum na Deposito</td>
-				<td>$10 (~฿325)</td>
-			</tr>
-			<tr>
-				<td>Mga Paraan sa Pag-withdraw</td>
-				<td> Katulad din ng mga paraan sa pagdeposito </td>
-			</tr>
-			<tr>
-				<td>Minimum na Withdrawal</td>
-				<td>$2</td>
-			</tr>
-			<tr>
-				<td>Minimum na Trade</td>
-				<td>$1</td>
-			</tr>
-			<tr>
-				<td>Leverage</td>
-				<td>Hanggang 1:1000 (depende sa asset at uri account)</td>
-			</tr>
-			<tr>
-				<td>Mga Uri ng Account</td>
-				<td>Demo, Standard, VIP, Islamic</td>
-			</tr>
-			<tr>
-				<td>Pag-trade Gamit ang Mobile</td>
-				<td>Sinusuportahan sa Android at iOS (App Store, Google Play)</td>
-			</tr>
-			<tr>
-				<td>Affiliate Program</td>
-				<td>Oo, revenue share hanggang 80%</td>
-			</tr>
-			<tr>
-				<td>Mga Hindi Available na Bansa</td>
-				<td>USA, Canada, Israel, Iran, North Korea, at ilang iba pa</td>
-			</tr>
-			<tr>
-				<td>Customer Support</td>
-				<td>24/7 na live chat, support sa maraming wika</td>
-			</tr>
-		</table>
-	</div>
-	<h2>Ano ang IQ Option Philippines?</h2>
+	<h2>¿Qué es IQ Option México?</h2>
 	<p>
-		Mag-trade sa Pilipinas at international na market sa pinansyal gamit ang iisang IQ Option
-		account. Makatipid ng oras, pera at ng pangangailangang magkaroon ng maraming account sa
-		pamamagitan ng pag-trade sa iisang lugar. Ang kakaunting hadlang sa entry, mga advanced na
-		feature sa pag-chart, customer support sa maraming wika, at content sa pag-aaral ng IQ Option ay
-		ilan lang sa mga benepisyo na maiaalok namin sa mga mahal naming trader. Sa ilang minuto lang,
-		makukumpleto mo ang pag-register, i-verify ang iyong account, at gawin ang una mong trade.
+		¿Qué es IQ Option? Es una plataforma de trading disponible para traders en México que desean
+		acceder a una variedad de mercados financieros con una sola cuenta. Esto es útil para los
+		traders que quieren invertir en varios mercados, pero encuentran difícil o tardado manejar
+		diferentes brókers. La plataforma también ofrece requisitos mínimos y una gama de herramientas
+		avanzadas de gráficos, asistencia y formación multilingüe 24/7, e incluso un proceso de
+		iniciación optimizado, para que puedas abrir una cuenta y operar en cuestión de minutos.
+	</p>
+
+	<Picture basePath="image15" />
+	<h3>Perfil de la empresa</h3>
+	<p>
+		Fundada en 2013, la empresa tiene su sede en Chipre. El instrumento financiero está regulado por
+		la CySEC, uno de los organismos más exigentes de Europa. Divisas, acciones, ETF, materias
+		primas, criptomonedas, opciones binarias y opciones digitales en CFD están disponibles para
+		hacer trading en IQ Option. El bróker opera con dólar estadounidense, euro y libra esterlina. Se
+		aceptan tarjetas bancarias, transferencias, monederos electrónicos y criptomonedas. La
+		plataforma de trading está disponible como aplicación de escritorio, app móvil e interfaz web,
+		cada una con gráficos avanzados, diseño personalizable y herramientas integradas de análisis de
+		mercado.
 	</p>
 </section>
 
 <div class="img-wrap">
-	<Picture basePath="image8" />
+	<Picture basePath="image13" />
 </div>
 
-<style>
-	tr td:first-child {
-		font-weight: 600;
-		background-color: var(--secondary-bgr);
-	}
-	.table-wrap {
-		margin-bottom: 40px;
-		margin-top: 30px;
-	}
+<section>
+	<h3>Premios</h3>
+	<p>
+		IQ Option ha recibido varios premios en los últimos años, incluyendo Mejor Plataforma de Trading
+		Global, Mejor App de Trading Móvil APAC y Excelencia en Plataforma Forex Global. Esto muestra
+		que IQ Option se toma en serio su negocio y sigue siendo innovadora y orientada a la calidad.
+	</p>
 
+	<h3>Regulación y licencias</h3>
+	<p>
+		Las operaciones europeas de IQ Option están autorizadas y reguladas por la CySEC. IQ Option
+		garantiza transparencia en todas sus prácticas y está comprometida con la protección del capital
+		de sus clientes. La empresa también cumple con toda la legislación financiera de la UE. La
+		disponibilidad puede variar en lugares donde no aplica la autorización de la CySEC. Los traders
+		siempre deben conocer las reglas para hacer trading en su país, incluyendo cualquier implicación
+		fiscal.
+	</p>
+	<h4>Seguridad</h4>
+	<p>
+		El cifrado SSL protege los inicios de sesión, pagos y demás datos. El dinero de los clientes
+		también se mantiene en cuentas separadas para mayor seguridad financiera. Estos procedimientos
+		aseguran a los traders que sus fondos y datos personales están protegidos.
+	</p>
+</section>
+
+<style>
 	.img-wrap {
 		background-color: #1b1817;
-		padding: 40px 0;
-        display: flex;
-        justify-content: center;
-        margin-top: 60px;
-	}
-
-	@media screen and (max-width: 600px) {
-		.table-wrap {
-			overflow: scroll;
-		}
+		padding: 40px 0 20px;
+		display: flex;
+		justify-content: center;
+		margin-top: 60px;
 	}
 </style>

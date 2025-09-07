@@ -24,7 +24,7 @@
 			loading="lazy"
 			id="form-iframe"
 			title="IQ Option registration form"
-			src="https://iqbroker.com/lp/regframe-01-light/en/{$iframe_params}"
+			src="https://iqbroker.com/lp/regframe-01-light/es/{$iframe_params}"
 			frameborder="0"
 			allowfullscreen
 		></iframe>

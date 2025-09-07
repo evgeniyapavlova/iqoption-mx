@@ -11,9 +11,9 @@
 	<button class="item-label" on:click={handleClick}>
 		<button aria-label="Open accordion item" class="{open ? 'item-open' : 'item-closed'} arrow"
 		></button>
-		<div class="question">
+		<h3 class="question">
 			{q}
-		</div>
+		</h3>
 	</button>
 
 	{#if open}
@@ -22,9 +22,13 @@
 </div>
 
 <style>
+	h3 {
+		margin: 0;
+	}
 	.question {
 		font-weight: 600;
 		text-align: left;
+		display: block;
 	}
 	.item-label {
 		display: flex;

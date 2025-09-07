@@ -24,7 +24,7 @@
 <header class:scrolled>
 	<section>
 		<LogoIqOption />
-		<a href="#registration" class="button">Mag-sign up</a>
+		<a href="#registration" class="button">Registro</a>
 	</section>
 </header>
 

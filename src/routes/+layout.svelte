@@ -14,9 +14,9 @@
 		updateLinks();
 	});
 
-	const title = 'IQ Option Philippines: Trading, Login, Sign Up, Ano ito, Paano Gumagana';
+	const title = 'IQ Option: Entrar, Qué Es, Cómo Funciona Broker en México';
 	const desc =
-		'IMagsimula sa trading gamit ang IQ Option Philippines. Alamin kung paano mag-sign up, mag-login, at mag-trade nang madali sa isang ligtas na platform.';
+		'IQ Option México: plataforma de trading para CFDs, criptomonedas y Forex. Depósitos mínimos, registro fácil y operación inmediata.';
 </script>
 
 <svelte:head>
@@ -26,12 +26,12 @@
 	<meta property="og:description" content={desc} />
 	<meta property="og:image" content={meta__img} />
 
-	<meta name="twitter:site" content="iqoption.ph" />
+	<meta name="twitter:site" content="iqoption.mx" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={desc} />
 	<meta name="twitter:image" content={meta__img} />
-	<link rel="canonical" href="https://iqoption.ph" />
+	<link rel="canonical" href="https://iqoption.mx" />
 	<link
 		rel="preload"
 		as="image"
@@ -50,12 +50,5 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
-	}
-	.wrap {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		height: 100vh;
-		width: 100vw;
 	}
 </style>
